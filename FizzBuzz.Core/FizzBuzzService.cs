@@ -1,5 +1,5 @@
 ﻿namespace FizzBuzz.Core;
-public class Class1
+public class FizzBuzzService
 {
 
 }

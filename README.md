@@ -14,5 +14,4 @@ To get started, we need to create a solution.
 1. `dotnet add .\FizzBuzz.Core.Tests\FizzBuzz.Core.Tests.csproj reference .\FizzBuzz.Core\FizzBuzz.Core.csproj`
 1. `dotnet build`
 1. `dotnet new gitignore`
-1. `git init` 
-
+1. `git init`
